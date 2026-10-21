@@ -1,6 +1,6 @@
 ### 李杰 · 后端 / 全栈
 
-Spring Boot · Vue 3 · Python 数据工程 · .NET / WPF
+Spring Boot · Vue 3 · 微信小程序 · Python 数据工程 · .NET / WPF
 
 作品集与项目详情：**https://byte-love.github.io**
 
